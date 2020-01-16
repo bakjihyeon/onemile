@@ -77,4 +77,7 @@ body{
 #icon li a:hover{
     opacity:1;
 }
-
+#char{
+    width:1000px;
+    margin:0 auto;
+}
