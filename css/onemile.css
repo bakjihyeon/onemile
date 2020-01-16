@@ -81,3 +81,20 @@ body{
     width:1000px;
     margin:0 auto;
 }
+#visual{
+    widows: 660px;
+    height:523px;
+    position: absolute;
+    left:50%;
+    transform: translateX(-50%);
+    top:250px;
+    font-size:0;
+}
+#visual :nth-child(1){
+    margin:100px 0;
+
+}
+#visual :nth-child(2){
+    position: absolute;
+    right:0;
+}
